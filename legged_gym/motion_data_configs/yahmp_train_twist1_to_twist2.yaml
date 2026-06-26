@@ -1,5 +1,5 @@
 # Generated from YAHMP train split matched by basename against TWIST2_full/twist1_to_twist2.
-root_path: /home/famadio/Workspace/RL/TWIST2/TWIST2_full/twist1_to_twist2
+root_path: /home/famadio/dev/TWIST2/TWIST2_full/twist1_to_twist2
 motions:
 - file: accad_A1__Stand.pkl
   weight: 1.0
